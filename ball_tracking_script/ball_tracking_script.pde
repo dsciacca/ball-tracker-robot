@@ -13,7 +13,7 @@ void setup(){
   GPIO.pinMode(4, GPIO.OUTPUT);
   GPIO.pinMode(15, GPIO.OUTPUT);
   GPIO.pinMode(17, GPIO.OUTPUT);
-  GPIO.pinMode(18, GPIO.output);
+  GPIO.pinMode(18, GPIO.OUTPUT);
 }
 
 void draw(){
