@@ -11,8 +11,9 @@ void setup(){
   trackColor = color(255, 0, 0);
   
   GPIO.pinMode(4, GPIO.OUTPUT);
-  GPIO.pinMode(14, GPIO.OUTPUT);
+  GPIO.pinMode(15, GPIO.OUTPUT);
   GPIO.pinMode(17, GPIO.OUTPUT);
+  GPIO.pinMode(18, GPIO.output);
 }
 
 void draw(){
